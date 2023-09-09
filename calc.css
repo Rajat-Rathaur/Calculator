@@ -4,7 +4,8 @@
     text-align: center;
   }
   body {
-    background-color:blue;
+    
+    background-color:white;
   }
   .calculator {
     width: 350px;
@@ -43,7 +44,7 @@
   }
   .btnMath {
     color: white;
-    background-color: #ff4561;
+    background-color: #80d240;
     font-size: 14px;
     margin: auto;
     width: 50px;
